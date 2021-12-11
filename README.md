@@ -1,1 +1,1 @@
-# EC602
+# EC602 Design by Software
